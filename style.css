@@ -6,7 +6,9 @@ body {
 }
 
 img {
-  border-radius: 50%;
+  border-radius: 300%;
+  height: 230;
+  width: 350;
 }
 
 h1 {
